@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6964fe5-8108-4909-804f-71a8d4e31639" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,17 +39,17 @@
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2280">
-              <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+              <caret line="76" column="14" lean-forward="false" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="559">
+              <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -59,12 +60,32 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1500370071403" expanded="true" signature="1252:1361" ph="{&quot;name&quot;: &quot;The Bootstrap Authors&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="1373:1432" ph="{&quot;url&quot;: &quot;https://github.com/twbs/bootstrap/issues&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="1452:1499" ph="[...]" />
+                <marker date="1500370071403" expanded="true" signature="1458:1495" ph="{&quot;name&quot;: &quot;Twitter, Inc.&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="1519:1572" ph="{&quot;jquery&quot;: &quot;&gt;=1.9.1&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="1713:2715" ph="{&quot;autoprefixer&quot;: &quot;^6.6.1&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="2748:2895" ph="{&quot;shasum&quot;: &quot;4f54dd33ac0deac3b28407bc2df7ec608869c9c8&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="2910:2933" ph="{&quot;node&quot;: &quot;&gt;=4&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="2946:3050" ph="[...]" />
+                <marker date="1500370071403" expanded="true" signature="3161:3414" ph="{&quot;main&quot;: &quot;js/bootstrap&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="3210:3237" ph="{&quot;lib&quot;: &quot;dist&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="3251:3361" ph="{...}" />
+                <marker date="1500370071403" expanded="true" signature="3275:3355" ph="{&quot;exports&quot;: &quot;$&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="3293:3323" ph="[...]" />
+                <marker date="1500370071403" expanded="true" signature="3430:3540" ph="[...]" />
+                <marker date="1500370071403" expanded="true" signature="3610:3690" ph="[...]" />
+                <marker date="1500370071403" expanded="true" signature="3616:3686" ph="{&quot;name&quot;: &quot;twbs&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="3805:3884" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+                <marker date="1500370071403" expanded="true" signature="3932:6302" ph="{&quot;change-version&quot;: &quot;node grunt/change-version.js&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -94,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/.eslintignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -210,7 +231,6 @@
         <option value="$PROJECT_DIR$/src/utils.js" />
         <option value="$PROJECT_DIR$/src/utils/constCls.js" />
         <option value="$PROJECT_DIR$/.eslintrc" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/utils/index.js" />
         <option value="$PROJECT_DIR$/src/utils/const.js" />
         <option value="$PROJECT_DIR$/src/components/formItem.js" />
@@ -221,6 +241,7 @@
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/.eslintignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -271,38 +292,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -436,12 +425,12 @@
       <workItem from="1500125936311" duration="1979000" />
       <workItem from="1500194778858" duration="31254000" />
       <workItem from="1500293803577" duration="17391000" />
-      <workItem from="1500367657274" duration="1974000" />
+      <workItem from="1500367657274" duration="2413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120435000" />
+    <option name="totallyTimeSpent" value="120874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="213" width="1925" height="1087" extended-state="0" />
@@ -517,7 +506,7 @@
         <state relative-caret-position="330">
           <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="57" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -673,7 +662,7 @@
         <state relative-caret-position="1440">
           <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -720,7 +709,7 @@
     <entry file="file://$PROJECT_DIR$/.eslintignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -728,7 +717,7 @@
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2280">
-          <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+          <caret line="76" column="14" lean-forward="false" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -744,19 +733,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1500370071403" expanded="true" signature="1252:1361" ph="{&quot;name&quot;: &quot;The Bootstrap Authors&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="1373:1432" ph="{&quot;url&quot;: &quot;https://github.com/twbs/bootstrap/issues&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="1452:1499" ph="[...]" />
+            <marker date="1500370071403" expanded="true" signature="1458:1495" ph="{&quot;name&quot;: &quot;Twitter, Inc.&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="1519:1572" ph="{&quot;jquery&quot;: &quot;&gt;=1.9.1&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="1713:2715" ph="{&quot;autoprefixer&quot;: &quot;^6.6.1&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="2748:2895" ph="{&quot;shasum&quot;: &quot;4f54dd33ac0deac3b28407bc2df7ec608869c9c8&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="2910:2933" ph="{&quot;node&quot;: &quot;&gt;=4&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="2946:3050" ph="[...]" />
+            <marker date="1500370071403" expanded="true" signature="3161:3414" ph="{&quot;main&quot;: &quot;js/bootstrap&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="3210:3237" ph="{&quot;lib&quot;: &quot;dist&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="3251:3361" ph="{...}" />
+            <marker date="1500370071403" expanded="true" signature="3275:3355" ph="{&quot;exports&quot;: &quot;$&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="3293:3323" ph="[...]" />
+            <marker date="1500370071403" expanded="true" signature="3430:3540" ph="[...]" />
+            <marker date="1500370071403" expanded="true" signature="3610:3690" ph="[...]" />
+            <marker date="1500370071403" expanded="true" signature="3616:3686" ph="{&quot;name&quot;: &quot;twbs&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="3805:3884" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1500370071403" expanded="true" signature="3932:6302" ph="{&quot;change-version&quot;: &quot;node grunt/change-version.js&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -768,6 +769,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
